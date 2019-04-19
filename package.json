@@ -1,0 +1,22 @@
+{
+  "name": "trueflock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sigridnicole/trueflock.git"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sigrid",
+  "license": "ISC",
+  "dependencies": {
+    "csv": "^5.1.1",
+    "csv-parser": "^2.2.0",
+    "csv-writer": "^1.2.0",
+    "date-and-time": "^0.6.3",
+    "date-diff": "^0.2.1"
+  }
+}
